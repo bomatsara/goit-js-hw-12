@@ -1,0 +1,12 @@
+/**
+  |============================
+  | include css partials with
+  | default @import url()
+  |============================
+*/
+@import url('./base.css');
+@import url('./reset.css');
+@import url('./form.css');
+@import url('./search.css');
+@import url('./flatpickr.css');
+@import url('./images.css');
